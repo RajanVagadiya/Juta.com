@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "wjLRDyisPLiZuOBO9FRND6xVZdyQMNg4bYiYFl4/A60=",
+  "Source": "NewTask1_j_query",
+  "BasePath": "_content/NewTask1_j_query",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NewTask1_j_query\\wwwroot",
+      "Source": "NewTask1_j_query",
+      "ContentRoot": "D:\\Nirav\\angulr\\full-project\\E-commerce-Task\\E-commerce-Task\\NewTask1_j_query\\NewTask1_j_query\\wwwroot\\",
+      "BasePath": "_content/NewTask1_j_query",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Nirav\\angulr\\full-project\\E-commerce-Task\\E-commerce-Task\\NewTask1_j_query\\NewTask1_j_query\\wwwroot\\image\\logo.jpg",
+      "SourceId": "NewTask1_j_query",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Nirav\\angulr\\full-project\\E-commerce-Task\\E-commerce-Task\\NewTask1_j_query\\NewTask1_j_query\\wwwroot\\",
+      "BasePath": "_content/NewTask1_j_query",
+      "RelativePath": "image/logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gd9ui3rrz9",
+      "Integrity": "DMeedFpZpkiCvyPl8cL8lgpZJ23Xfd1aoewWE7JKR+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\logo.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "image/logo.gd9ui3rrz9.jpg",
+      "AssetFile": "D:\\Nirav\\angulr\\full-project\\E-commerce-Task\\E-commerce-Task\\NewTask1_j_query\\NewTask1_j_query\\wwwroot\\image\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMeedFpZpkiCvyPl8cL8lgpZJ23Xfd1aoewWE7JKR+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:52:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gd9ui3rrz9"
+        },
+        {
+          "Name": "label",
+          "Value": "image/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMeedFpZpkiCvyPl8cL8lgpZJ23Xfd1aoewWE7JKR+k="
+        }
+      ]
+    },
+    {
+      "Route": "image/logo.jpg",
+      "AssetFile": "D:\\Nirav\\angulr\\full-project\\E-commerce-Task\\E-commerce-Task\\NewTask1_j_query\\NewTask1_j_query\\wwwroot\\image\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMeedFpZpkiCvyPl8cL8lgpZJ23Xfd1aoewWE7JKR+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:52:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMeedFpZpkiCvyPl8cL8lgpZJ23Xfd1aoewWE7JKR+k="
+        }
+      ]
+    }
+  ]
+}

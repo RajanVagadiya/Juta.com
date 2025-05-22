@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Nirav\\angulr\\full-project\\E-commerce-Task\\E-commerce-Task\\NewTask1_j_query\\NewTask1_j_query\\wwwroot\\image\\logo.jpg",
+      "PackagePath": "staticwebassets\\image\\logo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NewTask1_j_query.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NewTask1_j_query.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NewTask1_j_query.props",
+      "PackagePath": "build\\NewTask1_j_query.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NewTask1_j_query.props",
+      "PackagePath": "buildMultiTargeting\\NewTask1_j_query.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NewTask1_j_query.props",
+      "PackagePath": "buildTransitive\\NewTask1_j_query.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
